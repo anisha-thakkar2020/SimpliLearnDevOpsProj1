@@ -1,5 +1,5 @@
 ####################
-## Ubuntu
+## Docker Installation steps for Ubuntu 20.4
 ####################
 
 #!/bin/sh
