@@ -1,6 +1,5 @@
 ## #######################
-## Jenkins installation 
-## Ubnutu 20.04
+## Jenkins installation steps for Ubnutu 20.04
 ## ####################### 
 #!/bin/sh
 sudo -i
